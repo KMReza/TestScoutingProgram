@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestScoutingProgram</string>
+    <string name="nextPageButtonAuton">Go To\nAuton</string>
+    <string name="nextPageButtonTeleop">Go To\nTeleop</string>
+    <string name="allianceColor">Alliance Color</string>
+    <string name="teamNumber">Input Team Number</string>
+    <string name="selectColor">Select Color</string>
+</resources>
